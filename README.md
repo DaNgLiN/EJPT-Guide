@@ -36,3 +36,4 @@ nmap -sU -sV 10.10.10.10
 #### Always save your scans, you never know when you need to pull them up.
 ````bash
 nmap -sn 10.10.10.0/24 -oN hosts.nmap
+
